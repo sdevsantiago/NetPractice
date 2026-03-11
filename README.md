@@ -37,12 +37,12 @@ For detailed info, refer to this project [subject](docs/en.subject.pdf).
    bash run.sh
    ```
    This starts a local web server and opens the NetPractice interface in your browser automatically.
-   > [!WARNING]  
-   > If `run.sh` does not work, start the server manually and navigate to it:
-   >```bash
-   >python3 -m http.server 49242
-   ># then open http://localhost:49242 in your browser
-   >```
+  > [!WARNING]  
+  > If `run.sh` does not work, start the server manually and navigate to it:
+  >```bash
+  >python3 -m http.server 49242
+  ># then open http://localhost:49242 in your browser
+  >```
 3. On the welcome page, enter your **42 intranet login** in the field provided and click **Start**. This is required so that the exported files are tied to your personal configuration.
 4. Use the **Training** tab to practice all 10 levels at your own pace. Alternatively, you can use the **Evaluation** tab to generate a random configuration, also suitable for evaluations.
 
