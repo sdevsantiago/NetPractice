@@ -46,6 +46,9 @@ For detailed info, refer to this project [subject](docs/en.subject.pdf).
 3. On the welcome page, enter your **42 intranet login** in the field provided and click **Start**. This is required so that the exported files are tied to your personal configuration.
 4. Use the **Training** tab to practice all 10 levels at your own pace. Alternatively, you can use the **Evaluation** tab to generate a random configuration, also suitable for evaluations.
 
+> [!NOTE]  
+> Due to license limitations, the project archive is only accessible through the intranet and, therefore, it is not accesible through this repository.
+
 ## 📚 Resources
 
 - [MDN — How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
