@@ -60,7 +60,7 @@ For detailed info, refer to this project [subject](docs/en.subject.pdf).
 
 ##  Solutions
 
-This repository 
+This repository contains all 10 solutions in the form of `level<number>.json`.
 
 ### Level 1
 
