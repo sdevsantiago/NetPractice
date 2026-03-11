@@ -58,7 +58,7 @@ For detailed info, refer to this project [subject](docs/en.subject.pdf).
 - [Wikipedia - TCP/IP model](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 - [Subnet calculator](https://www.calculator.net/ip-subnet-calculator.html)
 
-##  Solutions
+## ✅ Solutions
 
 This repository contains all 10 solutions in the form of `level<number>.json`.
 
